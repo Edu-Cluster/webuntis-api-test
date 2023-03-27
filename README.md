@@ -1,2 +1,2 @@
-# WebuUntis API Test
+# WebUntis API Test
 
